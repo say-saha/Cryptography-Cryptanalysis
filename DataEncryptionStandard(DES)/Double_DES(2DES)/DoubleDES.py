@@ -1,3 +1,4 @@
+# By @say-saha
 # Double DES is a collection of two DES encryptions(Block cipher) connected in serial way. In this encryption method, 
 # we use two different keys of 64 bits (Including parity bits).
 # Initially Double DES was introduced to eleminate the possibility of Bruteforce attack on the single DES. Later, we got to know 
